@@ -6,8 +6,9 @@ LICENSE: [MIT](./license.md)
 
 ---
 ### Содержание
-1. Что-то
-2.  [git add](./add.md)
+1. [Установка](./installation.md)
+2. [git config](./config.md)
+3. [git add](./add.md)
 ---
 
 GIT logo by Jason Long - http://git-scm.com/downloads/logos,
