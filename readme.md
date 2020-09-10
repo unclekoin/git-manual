@@ -2,7 +2,9 @@
 
 LICENSE: [MIT](./license.md)
 
-![Логотип GIT](./assets/git-logo.svg) 
+<!-- ![Логотип GIT](./assets/git-logo.svg)  -->
+
+<img src="./assets/git-logo.svg" width="300">
 
 ---
 ### Содержание
@@ -14,7 +16,7 @@ LICENSE: [MIT](./license.md)
 6. [git add](./add.md)
 7. [git commit](./commit.md)
 8. [git push](./push.md)
-9. [git branch]()
+9. [git branch](./branch.md)
 10. [git checkout]()
 11. [git log]()
 12. [git diff]()
