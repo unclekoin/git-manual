@@ -2,14 +2,14 @@
 
 LICENSE: [MIT](./license.md)
 
-![Логотип GIT](./assets/git-logo.svg)
+![Логотип GIT](./assets/git-logo.svg) 
 
 ---
 ### Содержание
 1. [Установка](./installation.md)
 2. [git config](./config.md)
 3. [.gitignore](./gitignore.md)
-4. [git init]()
+4. [git init](./init.md)
 5. [git status]()
 6. [git add](./add.md)
 7. [git commit]()

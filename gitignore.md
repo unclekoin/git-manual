@@ -25,8 +25,9 @@ node_modules/
 *.sw*
 ```
 
+---
+### Ссылки
+
 * [Как создавать шаблоны](https://git-scm.com/docs/gitignore)
-
 * [Коллекция .gitignore шаблонов](https://github.com/github/gitignore)
-
 * [Настройка .gitignore](https://docs.github.com/en/github/using-git/ignoring-files)
