@@ -1,4 +1,4 @@
-[&ltrif; к содержанию](./readme.md)
+[&#8678; к содержанию](./readme.md)
 
 ## git add
 
