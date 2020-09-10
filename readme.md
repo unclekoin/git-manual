@@ -24,7 +24,7 @@ LICENSE: [MIT](./license.md)
 14. [git rm]()
 15. [git reset]()
 16. [git help](./help.md)
-17. [Полезные ссылки]()
+17. [Полезные ссылки](./links.md)
 ---
 
 GIT logo by Jason Long - http://git-scm.com/downloads/logos,
