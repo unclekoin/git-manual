@@ -7,3 +7,8 @@
 * [Скринкаст по Git на learn.javascript.ru](https://learn.javascript.ru/screencast/git)
 * [Сайт GIT](https://git-scm.com/)
 * [Про git. Уроки, статьи и рассказы из жизни](https://webdevkin.ru/tags/git)
+---
+* https://github.com/CringeCode/-5.14
+* https://github.com/Tereami/GithubTutorial
+* https://github.com/ShaninIvan/GitTutorial
+* https://github.com/dmitry12309/TASK_41
