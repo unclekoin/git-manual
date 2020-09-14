@@ -17,6 +17,12 @@ git config user.name [ваше имя]
 git config user.email [email]
 ```
 
+Установка текстового редактора, в котором будут открываться файлы для решения конфликтов
+
+```bash=
+git config --global core.editor name-editor
+```
+
 Смотрим изменения одним из приведенных ниже способов:
 
 ```bash=

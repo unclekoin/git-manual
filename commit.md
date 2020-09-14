@@ -17,3 +17,4 @@ git commit -m "add index.html"
 
 [Подробная информация](https://git-scm.com/docs/git-commit)
 
+[Как оформлять коммиты, чтобы потом не было больно](https://habr.com/ru/company/voximplant/blog/276695/)
