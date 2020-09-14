@@ -19,6 +19,26 @@ git branch
 
   master
 * new-branch
+
+git checkout -b branch-name # создаем ветку и автоматически переключится на неё
+```
+
+```bash=
+git push origin branch-name # отправляем созданную ветку на сервер
+
+git checkout origin/branch-name -b branch-name # получить ветку с удаленного репозитория
+```
+
+Смотрим все существующие ветки:
+
+```bash=
+git branch # локальные
+git branch -r # на сервере
+```
+Переключаемся на ветку:
+
+```bash=
+git checkout branch-name
 ```
 
 ### Ссылки
