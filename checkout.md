@@ -13,3 +13,10 @@ git checkout branch-name
 ```bash=
 git checkout -b branch-name
 ```
+
+Откатываем файл / проект до состояния последней фиксации.
+Если файлы еще не были добавлены в индекс можно воспользоваться следующей командой:
+
+```bach=
+git checkout file-name
+```
